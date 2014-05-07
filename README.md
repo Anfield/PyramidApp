@@ -1,3 +1,0 @@
-PyramidApp description
-==========
-
