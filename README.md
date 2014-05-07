@@ -1,2 +1,3 @@
-PyramidApp
+PyramidApp description
 ==========
+
